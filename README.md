@@ -1,4 +1,4 @@
-# Hash-Calculator
+# Hash-Calculator with IHM
 
 ## Project Description 
 
