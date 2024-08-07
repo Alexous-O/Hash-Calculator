@@ -5,7 +5,7 @@
 A hash calculator is a tool used to generate hash values ​​from input data. These hash values ​​are fixed sequences of characters (usually in hexadecimal) that represent the unique digital fingerprint of the data.
 
 
-This project aims to explain the principle of ransomware and I developed it as part of my studies, to learn how it works.
+This project aims to explain the principle of the Hash-Calculator, I developed it as part of my studies, to learn how it works.
 
 ## Uses of a Hash Calculator :
 
