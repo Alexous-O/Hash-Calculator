@@ -58,4 +58,4 @@ hash_button = tk.Button(root, text="Hash File", command=hash_button_click)
 hash_button.pack(pady=20)
 
 # Lancer la boucle principale
-root.mainloop()
+root.mainloop() 
