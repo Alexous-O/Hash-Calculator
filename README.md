@@ -31,9 +31,9 @@ import hashlib
 
 2. Utility functions:
 
-choose_file(): Opens a dialog box to choose a file and updates the text entry with the path of the selected file.
-hash_file(file_path, hash_type): Reads the file in 4096-byte chunks, updates the hash, and returns the hashed value in hexadecimal.
-hash_button_click(): Retrieves the selected file path and hash type, and displays the hash result in a dialog box.
+choose_file():    Opens a dialog box to choose a file and updates the text entry with the path of the selected file.
+hash_file(file_path, hash_type):    Reads the file in 4096-byte chunks, updates the hash, and returns the hashed value in hexadecimal.
+hash_button_click():       Retrieves the selected file path and hash type, and displays the hash result in a dialog box.
 
 3. Creating the user interface:
 
