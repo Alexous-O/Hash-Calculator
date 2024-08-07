@@ -23,9 +23,11 @@ This project aims to explain the principle of ransomware and I developed it as p
 
 1. Importing modules:
 
-'''import tkinter as tk
+```
+import tkinter as tk
 from tkinter import filedialog, messagebox
-import hashlib'''
+import hashlib
+```
 
 2. Utility functions:
 
