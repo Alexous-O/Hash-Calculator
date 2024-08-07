@@ -24,9 +24,9 @@ This project aims to explain the principle of ransomware and I developed it as p
 
 1. Clone the GitHub repository to your local machine <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="15" alt="git logo" />:
 
-```
-git clone https://github.com/Alexous-O/Hash-Calculatoir.git
-```
+    ```
+    git clone https://github.com/Alexous-O/Hash-Calculatoir.git
+    ```
     
 2. Then launch the project
    - It's up to you to have fun
@@ -35,11 +35,11 @@ git clone https://github.com/Alexous-O/Hash-Calculatoir.git
 
 1. Importing modules:
 
-```
-import tkinter as tk
-from tkinter import filedialog, messagebox
-import hashlib
-```
+    ```
+    import tkinter as tk
+    from tkinter import filedialog, messagebox
+    import hashlib
+    ```
 
 2. Utility functions:
 
